@@ -1,6 +1,6 @@
-#login 登陆页
+# login 登陆页
 
-##页面 login pages：
+## 页面 login pages：
 
 需要填的数据
 1，手机号
